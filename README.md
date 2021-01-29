@@ -17,7 +17,7 @@ use Python 2 because it's no longer supported.**
 
 ## List of contents
 
-The tutorial consists of two sections:
+The tutorial consists of two sections:          
 
 ### Basics
 
